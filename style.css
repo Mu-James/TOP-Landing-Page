@@ -161,3 +161,13 @@ button {
 .call_to_action_box_button {
     border: 2px solid #F9FAF8
 }
+
+.footer {
+    height: 72px;
+    font-size: 18px;
+    color:#F9FAF8;
+    background-color: #1F2937;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
